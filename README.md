@@ -13,8 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 👋 Hello, I'm yeedove, a developer enthusiastic about cloud-native technologies.
 
-### Tech Stack
-
 - 🚀 I’m interested in service mesh and zero trust networking.
 - 👷‍♂️ I’m currently learning **Istio**, **Envoy**, **Kubesphere**.
 - 📚 Kubernetes enthusiast.
