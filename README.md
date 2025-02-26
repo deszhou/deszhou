@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Certifications
 
-<a href="https://www.credly.com/badges/91b0e8fd-4b46-44f0-9ae4-28cd23846431/public_url" target="_blank">
-  <img src="https://images.credly.com/size/160x160/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA Certification" width="80px">
+<a href="https://www.credly.com/badges/7c7a4865-ca58-4829-8921-15007babd1c3/public_url" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut Certification" width="80px">
 </a>
 <a href="https://www.credly.com/badges/16d2529a-f181-4915-a840-05b11c95eaf1/public_url" target="_blank">
   <img src="https://images.credly.com/size/160x160/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA Certification" width="80px">
@@ -31,6 +31,13 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.credly.com/badges/64da3ef1-132d-4c04-a8b6-ac4564b462d8/public_url" target="_blank">
   <img src="https://images.credly.com/size/160x160/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD Certification" width="80px">
 </a>
+<a href="https://www.credly.com/badges/313b6dfd-398d-46f7-a451-e8ecfb214c3d/public_url" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA Certification" width="80px">
+</a>
 <a href="https://www.credly.com/badges/586a51ad-f75c-4cc8-8325-aca71bf7dfbc/public_url" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS Certification" width="80px">
 </a>
+<a href="https://www.credly.com/badges/91b0e8fd-4b46-44f0-9ae4-28cd23846431/public_url" target="_blank">
+  <img src="https://images.credly.com/size/160x160/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA Certification" width="80px">
+</a>
+
