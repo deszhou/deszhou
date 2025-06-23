@@ -12,11 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me
 
-👋 Hello, I'm Dennis Zhou, a developer enthusiastic about cloud-native technologies.
-
-- 🚀 I’m interested in service mesh and zero trust networking.
-- 👷‍♂️ I’m currently learning **Istio** and **Envoy**.
-- 📚 Kubernetes enthusiast.
+-	🦀 Building high-performance systems with Rust and Go
+-	☁️ Experienced in AWS, Kubernetes, Istio, and Envoy
+-	🌟 CNCF Kubestronaut — always curious, always learning
 
 ---
 
