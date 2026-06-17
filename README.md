@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me
 
--	🦀 Building high-performance systems and blockchain infrastructure in Rust and Go
+-	🦀 Building high-performance systems in Rust and Go
 -	💸 Web3 payments: stablecoin rails, payment gateways, and multi-chain indexing
 -	☁️ Cloud-native infrastructure: Kubernetes, Istio, Envoy · CNCF Kubestronaut
 
